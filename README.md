@@ -109,3 +109,6 @@ Her bölüm açıldığında kendi komut listesini gösterir.
 ## Sorun giderme
 - **Piyano görünmüyor:** `python piyano.py portlar` ile portları kontrol edin; kablonun ve piyanonun USB-MIDI desteğini doğrulayın.
 - **`python-rtmidi` kurulamıyor:** Kullandığınız Python sürümü için hazır paket olmayabilir; daha eski bir Python 3 sürümü deneyin.
+
+## Lisans
+Bu proje [MIT Lisansı](LICENSE) ile yayımlanmıştır.
